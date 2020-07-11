@@ -1,2 +1,4 @@
 nowy tekst
 cos nowego
+
+main changes
